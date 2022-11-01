@@ -1,7 +1,7 @@
 # ExemploSiteVulneravel
 
 
-<b> 1. Vulnerabilidade SQL Injection: </b>
+1. <b> Vulnerabilidade SQL Injection: </b>
 
 Para impedir ataques via SQL Injection, utilizei o seguinte código:
 ```
@@ -10,4 +10,4 @@ Para impedir ataques via SQL Injection, utilizei o seguinte código:
 
 "Alpha" faz com que seja aceito apenas numeros e letras (de A a Z), ou seja, não é permitido caracteres especiais.
 
-<b> 2. Senha: </b>
+2. <b> Senha: </b>
