@@ -9,3 +9,5 @@ Para impedir ataques via SQL Injection, utilizei o seguinte código:
 ```
 
 "Alpha" faz com que seja aceito apenas numeros e letras (de A a Z), ou seja, não é permitido caracteres especiais.
+
+<b> 2. Senha: </b>
